@@ -16,6 +16,7 @@ No spec: Has no standard specification, and is not implemented by the official d
 - [C](/languages/c.c): general-purpose programming language. First appeared: 1972, 50 years ago. **Spec**. Extension .c
 - [C#](/languages/c#.cs): general-purpose, multi-paradigm programming language. First appeared	2000; 22 years ago **Implementation**. Extension .cs
 - [C++](/languages/c++.cpp): general-purpose programming language. First appeared: 1983, 50 years ago. **Spec**. Extension: .cpp
+- [Clojure](/languages/clojure.clj): a dynamic and functional dialect of the Lisp programming language on the Java platform. First appeared	2007; 15 years ago **Implementation***. Extension: .clj *(Runs on the java platform.)
 - [D](/languages/d.d): multi-paradigm system programming language. First appeared 8 December 2001; 20 years ago. **Implementation**. Extension: .d
 - [Go](/languages/go.go): statically typed, compiled programming language. First appeared: November 10, 2009; 12 years ago **Implementation**. Extension: .go
 - [Groovy](/languages/groovy.groovy): Java-syntax-compatible object-oriented programming language.  First appeared: May 23, 2009; 12 years ago **Implementation***. Extension: .groovy *(Can also compile on the java platform.)
