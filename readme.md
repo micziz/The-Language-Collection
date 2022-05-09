@@ -4,11 +4,11 @@ Welcome to the language collection. This is a repo for documenting all computer 
 
 ## Type.
 
-Implementation: Has a standard compiler or interpreter, implemented by the official developers.
+**Implementation**: Has a standard compiler or interpreter, implemented by the official developers.
 
-Spec: Has a standard specification, not implemented by the official developers.
+**Spec**: Has a standard specification, not implemented by the official developers.
 
-No spec: Has no standard specification, and is not implemented by the official developers.
+**No spec**: Has no standard specification, and is not implemented by the official developers.
 
 
 ## Languages
