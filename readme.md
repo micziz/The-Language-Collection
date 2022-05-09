@@ -19,6 +19,7 @@ No spec: Has no standard specification, and is not implemented by the official d
 - [D](/languages/d.d): multi-paradigm system programming language. First appeared 8 December 2001; 20 years ago. **Implementation**. Extension: .d
 - [Go](/languages/go.go): statically typed, compiled programming language. First appeared: November 10, 2009; 12 years ago **Implementation**. Extension: .go
 - [Groovy](/languages/groovy.groovy): Java-syntax-compatible object-oriented programming language.  First appeared: May 23, 2009; 12 years ago **Implementation***. Extension: .groovy *(Can also compile on the java platform.)
+- [Haskell](/languages/haskell.hs): general-purpose, statically-typed, purely functional programming language with type inference and lazy evaluation. First appeared: 1990; 32 years ago. **Spec**. Extension: .hs
 - [Java](languages/java.java): high-level, class-based, object-oriented programming language. First appeared May 23, 1995; 26 years ago **Implementation**. Extension: .java
 - [Javascript](languages/javascript.js): programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. First appeared: December 4, 1995; 26 years ago. **Spec** Extension: .js
 - [Kotlin](languages/kotlin.kt): cross-platform, statically typed, general-purpose programming language. First appeared	July 22, 2011; 10 years ago. **Implementation***. Extension: .kt *(Can also compile on the java platform.)
