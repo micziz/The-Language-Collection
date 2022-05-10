@@ -25,6 +25,7 @@ Welcome to the language collection. This is a repo for documenting all computer 
 - [Java](languages/java.java): high-level, class-based, object-oriented programming language. First appeared May 23, 1995; 26 years ago **Implementation**. Extension: .java
 - [Javascript](languages/javascript.js): programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. First appeared: December 4, 1995; 26 years ago. **Spec** Extension: .js
 - [Kotlin](languages/kotlin.kt): cross-platform, statically typed, general-purpose programming language. First appeared	July 22, 2011; 10 years ago. **Implementation***. Extension: .kt *(Can also compile on the java platform.)
+- [Elixir](languages/main.exs): a functional, concurrent, general-purpose programming language that runs on the BEAM virtual machine. First appeared: 2012; 10 years ago
 - [Objective-C](/languages/objective-c.m): general-purpose, object-oriented programming language. First appeared: 1984; 38 years ago **Spec**. Extension: .m
 - [Perl](/languages/perl.pl): high-level, general-purpose, interpreted, dynamic programming language First appeared	February 1, 1988; 34 years ago **Implementation**. Extension: .pl
 - [Php](/languages/php.php): general-purpose scripting language geared toward web development. First appeared: June 8, 1995; 26 years ago. **Implementation**. Extension: .php
