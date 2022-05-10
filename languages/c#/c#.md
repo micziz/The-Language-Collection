@@ -1,6 +1,6 @@
 # C#
 
-C# (/si ʃɑːrp/ see sharp)[b] is a general-purpose, multi-paradigm programming language. C# encompasses static typing, strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented programming disciplines.[16]
+C# is a general-purpose, multi-paradigm programming language. C# encompasses static typing, strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented programming disciplines.
 
 **Creator**: Anders Hejlsberg (Microsoft)
 
@@ -10,7 +10,7 @@ C# (/si ʃɑːrp/ see sharp)[b] is a general-purpose, multi-paradigm programming
 
 ## History
 
-During the development of the .NET Framework, the class libraries were originally written using a managed code compiler system called "Simple Managed C" (SMC).[20][21] In January 1999, Anders Hejlsberg formed a team to build a new language at the time called Cool, which stood for "C-like Object Oriented Language".[22] Microsoft had considered keeping the name "Cool" as the final name of the language, but chose not to do so for trademark reasons. By the time the .NET project was publicly announced at the July 2000 Professional Developers Conference, the language had been renamed C#, and the class libraries and ASP.NET runtime had been ported to C#.
+During the development of the .NET Framework, the class libraries were originally written using a managed code compiler system called "Simple Managed C" (SMC). In January 1999, Anders Hejlsberg formed a team to build a new language at the time called Cool, which stood for "C-like Object Oriented Language". Microsoft had considered keeping the name "Cool" as the final name of the language, but chose not to do so for trademark reasons. By the time the .NET project was publicly announced at the July 2000 Professional Developers Conference, the language had been renamed C#, and the class libraries and ASP.NET runtime had been ported to C#.
 
 ## Overview
 
@@ -22,8 +22,8 @@ During the development of the .NET Framework, the class libraries were originall
 - C# is intended to be suitable for writing applications for both hosted and embedded systems, ranging from the very large that use sophisticated operating systems, down to the very small having dedicated functions.
 - Although C# applications are intended to be economical with regard to memory and processing power requirements, the language was not intended to compete directly on performance and size with C or assembly language
 
-## Versions
+## Versioning
 
 A new version of C# Is generally released with a new .NET Platform release. 
 
-Latest version: C# 10.0
+**Latest version**: C# 10.0
