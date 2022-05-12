@@ -1,5 +1,11 @@
 # ChangeLog
 
+**V 0.1.1**:
+
+- Add scala, matlab and cobol
+- Change repo description
+- Small fixes
+
 **V 0.1.0**:
 
 - Initial release
