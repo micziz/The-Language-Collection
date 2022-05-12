@@ -47,4 +47,4 @@ In addition to these, you can develop applications for all kinds of industries, 
 
 MATLAB is updated twice per year. In addition to new features and other improvements, each release has new bug fixes and smaller changes.
 
-**Latest version**: 
+**Latest version**: R2022a
