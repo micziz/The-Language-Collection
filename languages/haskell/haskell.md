@@ -1,6 +1,6 @@
 # Haskell
 
-Haskell (/ˈhæskəl/[27]) is a general-purpose, statically-typed, purely functional programming language with type inference and lazy evaluation.[28][29] Designed for teaching, research and industrial application, Haskell has pioneered a number of programming language features such as type classes, which enable type-safe operator overloading. 
+Haskell is a general-purpose, statically-typed, purely functional programming language with type inference and lazy evaluation. Designed for teaching, research and industrial application, Haskell has pioneered a number of programming language features such as type classes, which enable type-safe operator overloading. 
 
 **Creators**: Lennart Augustsson, Dave Barton, Brian Boutel, Warren Burton, Joseph Fasel, Kevin Hammond, Ralf Hinze, Paul Hudak, John Hughes, Thomas Johnsson, Mark Jones, Simon Peyton Jones, John Launchbury, Erik Meijer, John Peterson, Alastair Reid, Colin Runciman, Philip Wadler
 
@@ -17,7 +17,7 @@ Following the release of Miranda by Research Software Ltd. in 1985, interest in 
 ## Overview
 
 Haskell features lazy evaluation, lambda expressions, pattern matching, list comprehension, type classes and type polymorphism. It is a purely functional language, which means that functions generally have no side effects. A distinct construct exists to represent side effects, orthogonal to the type of functions. A pure function can return a side effect that is subsequently executed, modeling the impure functions of other languages.
-Haskell has a strong, static type system based on Hindley–Milner type inference. Its principal innovation in this area is type classes, originally conceived as a principled way to add overloading to the language,[42] but since finding many more uses.[43]
+Haskell has a strong, static type system based on Hindley–Milner type inference. Its principal innovation in this area is type classes, originally conceived as a principled way to add overloading to the language, but since finding many more uses.
 The construct that represents side-effects is an example of a monad: a general framework which can model various computations such as error handling, nondeterminism, parsing and software transactional memory. They are defined as ordinary datatypes, but Haskell provides some syntactic sugar for their use.
 
 ## Versioning

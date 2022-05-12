@@ -1,6 +1,6 @@
 # F#
 
-F# (pronounced F sharp) is a functional-first, general purpose, strongly typed, multi-paradigm programming language that encompasses functional, imperative, and object-oriented programming methods. It is most often used as a cross-platform Common Language Infrastructure (CLI) language on .NET, but can also generate JavaScript[8] and graphics processing unit (GPU) code.
+F# (pronounced F sharp) is a functional-first, general purpose, strongly typed, multi-paradigm programming language that encompasses functional, imperative, and object-oriented programming methods. It is most often used as a cross-platform Common Language Infrastructure (CLI) language on .NET, but can also generate JavaScript and graphics processing unit (GPU) code.
 
 **Creator**: Don Syme,
 
@@ -12,7 +12,7 @@ F# (pronounced F sharp) is a functional-first, general purpose, strongly typed, 
 
 ## History
 
-F# originates from Microsoft Research, Cambridge, UK. The language was originally designed and implemented by Don Syme,[5] according to whom in the fsharp team, they say the F is for "Fun".[33] Andrew Kennedy contributed to the design of units of measure.[5] The Visual F# Tools for Visual Studio are developed by Microsoft.[5] The F# Software Foundation developed the F# open-source compiler and tools, incorporating the open-source compiler implementation provided by the Microsoft Visual F# Tools team.
+F# originates from Microsoft Research, Cambridge, UK. The language was originally designed and implemented by Don Syme, according to whom in the fsharp team, they say the F is for "Fun". Andrew Kennedy contributed to the design of units of measure. The Visual F# Tools for Visual Studio are developed by Microsoft. The F# Software Foundation developed the F# open-source compiler and tools, incorporating the open-source compiler implementation provided by the Microsoft Visual F# Tools team.
 
 ## Overview
 
@@ -30,11 +30,11 @@ Examples of functional features are:
 - Pattern matching
 - Algebraic data types
 - Tuples
-- Monad pattern support (called computation expressions[41])
-- Tail Call Optimisation[42]
+- Monad pattern support (called computation expressions)
+- Tail Call Optimisation
 
 ## Versioning
 
 F# uses an open development and engineering process. The language evolution process is managed by Don Syme from Microsoft Research as the benevolent dictator for life (BDFL) for the language design, together with the F# Software Foundation. Earlier versions of the F# language were designed by Microsoft and Microsoft Research using a closed development process.
 
-Current Version: 6.0
+**Current Version**: 6.0

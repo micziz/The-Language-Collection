@@ -4,7 +4,7 @@ Elixir is a functional, concurrent, general-purpose programming language that ru
 
 Elixir is used by companies such as Ramp, PagerDuty and Discord.
 
-**Creator**: 
+**Creator**: José Valim
 
 **First appeared**:	2012; 10 years ago
 
