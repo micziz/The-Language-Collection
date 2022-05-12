@@ -31,7 +31,8 @@ Welcome to the language collection. This is a repo for documenting all computer 
 - [Php](/languages/php/): general-purpose scripting language geared toward web development. First appeared: June 8, 1995; 26 years ago. **Implementation**. Extension: .php
 - [Python](languages/python/): high-level, interpreted, general-purpose programming language.  Dynamically-typed and garbage-collected. First appeared 20 February 1991; 31 years ago. **Implementation**. Extension: .py
 - [Ruby](languages/ruby/): interpreted, high-level, general-purpose programming language. dynamically typed and uses garbage collection and just-in-time compilation. First appeared	1995; 27 years ago. **Implementation**. Extension: .rb
-- [Rust](languages/rust/): multi-paradigm, general-purpose programming language. Can guarantee memory safety by using a borrow checker to validate references. First appeared	July 7, 2010; 11 years ago. **Implementation**. Extension: .rs
+- [Rust](languages/rust/): multi-paradigm, general-purpose programming language. Can guarantee memory safety by using a borrow checker to validate references. First appeared July 7, 2010; 11 years ago. **Implementation**. Extension: .rs
+- [Scala](languages/scala/): a strong statically typed general-purpose programming language which supports both object-oriented programming and functional programming. First appeared 20 January 2004; 18 years ago. **Implementation**. Extension: .sc
 - [Vala](languages/vala/): object-oriented programming language. Features such as anonymous functions, signals, properties, generics, assisted memory management, exception handling, type inference, and foreach statements. First appeared 2006; 16 years ago **Implementation**. Extension: .vala
 
 ## Code Of Conduct
