@@ -18,6 +18,7 @@ Welcome to the language collection. This is a repo for documenting all computer 
 - [Clojure](/languages/clojure/): a dynamic and functional dialect of the Lisp programming language on the Java platform. First appeared 2007; 15 years ago **Implementation***. Extension: .clj *(Runs on the java platform.)
 - [Cobol](languages/cobol/): a compiled English-like computer programming language designed for business use. First appeared 1959; 63 years ago **Spec** extension: .cbl
 - [D](/languages/d/): multi-paradigm system programming language. First appeared 8 December 2001; 20 years ago. **Implementation**. Extension: .d
+- [Dart](languages/dart/): a programming language designed for client development, such as for the web and mobile apps.First appeared October 10, 2011; 10 years ago **Implementation**. Extension: .dart
 - [F#](/languages/f#/): a functional-first, general purpose, strongly typed, multi-paradigm programming language. First appeared 2005; 17 years ago. **Implementation**. Extension: .fs
 - [Go](/languages/go/): statically typed, compiled programming language. First appeared: November 10, 2009; 12 years ago **Implementation**. Extension: .go
 - [Groovy](/languages/groovy/): Java-syntax-compatible object-oriented programming language.  First appeared: May 23, 2009; 12 years ago **Implementation***. Extension: .groovy *(Can also compile on the java platform.)
